@@ -53,9 +53,14 @@ const IndexPage = () => (
       solving puzzles. As teams start scoring they can redeem points in the hack fortress store for bonuses. 
       Bonuses range from crits for the TF2, lighting the opposing team on fire, or preventing the other teams 
       hackers from accessing the store.
+
+
     </section>
     <section className="break">
       <p>For more checkout our <Link to="/what-is-hackfortress/">about page</Link>.</p>
+    </section>
+    <section className="break">
+        <p>Infrastructure for Hackfortress is sponsored by <a href="https://g.co/cloud">g.co/cloud</a></p>
     </section>
   </div>
 )
