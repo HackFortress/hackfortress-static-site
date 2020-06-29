@@ -58,9 +58,7 @@ const IndexPage = () => (
     </section>
     <section className="break">
       <p>For more checkout our <Link to="/what-is-hackfortress/">about page</Link>.</p>
-    </section>
-    <section className="break">
-        <p>Infrastructure for Hackfortress is sponsored by <a href="https://g.co/cloud">g.co/cloud</a></p>
+      <p>Infrastructure for Hackfortress is sponsored by <a href="https://g.co/cloud">g.co/cloud</a></p>
     </section>
   </div>
 )
